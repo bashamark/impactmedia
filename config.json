@@ -20,7 +20,7 @@
       "channel_url": "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream_src.m3u8",
       "channel_thumbnail": "https://i.ibb.co/WvBQrStd/dreamtv1920.jpg",
       "channel_description": "<p> We are dedicated to uplifting, inspiring, and transforming lives through dynamic Christian programming. Enjoy a wide range of shows, including live worship, gospel music, impactful sermons, and family-centered entertainment.</p>",
-      "channel_vast_ads_tag_url": "https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/single_ad_samples&sz=640x480&cust_params=sample_ct%3Dlinear&ciu_szs=300x250%2C728x90&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&correlator="
+      "channel_vast_ads_tag_url": ""
     }
   ],
   "webview": [
@@ -76,7 +76,7 @@
   
     {
       "social_name": "Impact Facebook",
-      "social_icon": "hhttps://i.ibb.co/9HZ6ZkH0/ic-facebook.png",
+      "social_icon": "https://i.ibb.co/9HZ6ZkH0/ic-facebook.png",
       "social_url": "https://www.facebook.com/Impactfmug"
     },
    
