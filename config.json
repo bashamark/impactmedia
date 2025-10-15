@@ -2,14 +2,14 @@
   "radio": [
     {
       "radio_name": "Impact Radio",
-      "radio_genre": "Lwasamayinja",
-      "radio_url": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
+      "radio_genre": "Gospel Radio",
+      "radio_url": "http://streamfi-impactfm1.zettawiseroutes.com:8080/hls/stream_src.m3u8",
       "radio_image_url": "https://i.ibb.co/NSZP5mb/impactlogo.jpg",
-      "radio_background": "false",
+      "radio_background": "true",
       "radio_background_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
       "blur_radio_background": "true",
       "song_metadata": "true",
-      "image_album_art": "true",
+      "image_album_art": "false",
       "image_album_art_dynamic_background": "true",
       "auto_play": "false"
     }
@@ -44,10 +44,10 @@
       "ad_status": "1",
       "main_ads": "admob",
       "backup_ads": "none",
-      "admob_banner_id": "ca-app-pub-3940256099942544/9214589741",
-      "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_id": "ca-app-pub-3940256099942544/9257395921",
+      "admob_banner_id": "ca-app-pub-9523725970329735/5528738478",
+      "admob_interstitial_id": "ca-app-pub-9523725970329735/7136951700",
+      "admob_native_id": "ca-app-pub-9523725970329735/9226600471",
+      "admob_app_open_id": "ca-app-pub-9523725970329735/4900517666",
       "ad_manager_banner_id": "/6499/example/banner",
       "ad_manager_interstitial_id": "/6499/example/interstitial",
       "ad_manager_native_id": "/6499/example/native",
@@ -73,25 +73,17 @@
     }
   ],
   "socials": [
+  
     {
-      "social_name": "Website",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_web.png",
-      "social_url": "https://solodroid.net?target=internal"
+      "social_name": "Impact Facebook",
+      "social_icon": "https://i.ibb.co/QcLdfHL/facebook.png",
+      "social_url": "https://www.facebook.com/Impactfmug"
     },
+   
     {
-      "social_name": "Facebook",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_facebook.png",
-      "social_url": "https://facebook.com/solodroid.net?target=custom-tabs"
-    },
-    {
-      "social_name": "Twitter",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_twitter.png",
-      "social_url": "https://twitter.com/solodroiddev?target=custom-tabs"
-    },
-    {
-      "social_name": "Instagram",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/ic_instagram.png",
-      "social_url": "https://instagram.com/solodroid.dev?target=custom-tabs"
+      "social_name": "Victory Youtube Channel",
+      "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
+      "social_url": "https://www.youtube.com/@victoryuganda/streams"
     }
   ]
 }
