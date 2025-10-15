@@ -25,8 +25,8 @@
   ],
   "webview": [
     {
-      "web_url": "https://ppid.rri.go.id/berita",
-      "web_toolbar": "false"
+      "web_url": "https://imc.ug/index.html",
+      "web_toolbar": "true"
     }
   ],
   "settings": [
