@@ -1,14 +1,14 @@
 {
   "radio": [
     {
-      "radio_name": "Impact Radio",
-      "radio_genre": "Gospel Radio",
+      "radio_name": "Impact FM 98.4",
+      "radio_genre": "Live Stream",
       "radio_url": "http://streamfi-impactfm1.zettawiseroutes.com:8080/hls/stream_src.m3u8",
       "radio_image_url": "https://i.ibb.co/NSZP5mb/impactlogo.jpg",
       "radio_background": "false",
-      "radio_background_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
+      "radio_background_url": "https://raw.githubusercontent.com/envato-market/codecanyon/solodroid/the-single-stream/radio-background.jpg",
       "blur_radio_background": "true",
-      "song_metadata": "true",
+      "song_metadata": "false",
       "image_album_art": "false",
       "image_album_art_dynamic_background": "true",
       "auto_play": "false"
@@ -17,21 +17,22 @@
   "video": [
     {
       "channel_name": "Dream TV",
-      "channel_url": "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream_src.m3u8",
-      "channel_thumbnail": "https://i.ibb.co/WvBQrStd/dreamtv1920.jpg",
-      "channel_description": "<p> We are dedicated to uplifting, inspiring, and transforming lives through dynamic Christian programming. Enjoy a wide range of shows, including live worship, gospel music, impactful sermons, and family-centered entertainment.</p>",
+      "channel_source": "url",
+      "channel_url": "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream_mid.m3u8",
+      "channel_thumbnail": "https://i.ibb.co/rf7stwRY/dreamtv.jpg",
+      "channel_description": "<p>Welcome to Dream TV Uganda Stream.</p>",
       "channel_vast_ads_tag_url": ""
     }
   ],
   "webview": [
     {
-      "web_url": "https://imc.ug/index.html",
-      "web_toolbar": "true"
+      "web_url": "https://mcfchat-469b5.web.app/",
+      "web_toolbar": "false"
     }
   ],
   "settings": [
     {
-      "app_status": "0",
+      "app_status": "1",
       "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
       "more_apps_url": "https://codecanyon.net/category/mobile/android?sort=sales&term=solodroid#content",
       "redirect_url": "",
@@ -44,10 +45,10 @@
       "ad_status": "1",
       "main_ads": "admob",
       "backup_ads": "none",
-      "admob_banner_id": "ca-app-pub-9523725970329735/5528738478",
-      "admob_interstitial_id": "ca-app-pub-9523725970329735/7136951700",
-      "admob_native_id": "ca-app-pub-9523725970329735/9226600471",
-      "admob_app_open_id": "ca-app-pub-9523725970329735/4900517666",
+      "admob_banner_id": "ca-app-pub-3940256099942544/9214589741",
+      "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_id": "ca-app-pub-3940256099942544/9257395921",
       "ad_manager_banner_id": "/6499/example/banner",
       "ad_manager_interstitial_id": "/6499/example/interstitial",
       "ad_manager_native_id": "/6499/example/native",
@@ -73,13 +74,13 @@
     }
   ],
   "socials": [
-  
+
     {
       "social_name": "Impact Facebook",
       "social_icon": "https://i.ibb.co/9HZ6ZkH0/ic-facebook.png",
       "social_url": "https://www.facebook.com/Impactfmug"
     },
-   
+
     {
       "social_name": "Victory Youtube Channel",
       "social_icon": "https://i.ibb.co/dc00Z43/youtube.png",
