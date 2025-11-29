@@ -33,11 +33,11 @@
   "settings": [
     {
       "app_status": "1",
-      "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
-      "more_apps_url": "https://codecanyon.net/category/mobile/android?sort=sales&term=solodroid#content",
+      "privacy_policy_url": "https://sites.google.com/view/impactfmprivacy/home",
+      "more_apps_url": "https://play.google.com/store/apps/dev?id=7118097138380275091",
       "redirect_url": "",
       "show_social_menu_on_radio_page": "true",
-      "show_social_menu_on_video_page": "true"
+      "show_social_menu_on_video_page": "false"
     }
   ],
   "ads": [
@@ -45,10 +45,10 @@
       "ad_status": "1",
       "main_ads": "admob",
       "backup_ads": "none",
-      "admob_banner_id": "ca-app-pub-3940256099942544/9214589741",
-      "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_id": "ca-app-pub-3940256099942544/9257395921",
+      "admob_banner_id": "ca-app-pub-9523725970329735/5528738478",
+      "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173000",
+      "admob_native_id": "ca-app-pub-9523725970329735/9226600471",
+      "admob_app_open_id": "ca-app-pub-9523725970329735/8083952268",
       "ad_manager_banner_id": "/6499/example/banner",
       "ad_manager_interstitial_id": "/6499/example/interstitial",
       "ad_manager_native_id": "/6499/example/native",
